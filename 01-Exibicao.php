@@ -5,7 +5,7 @@
 // echo 'Forma padrão de exibição do PHP'; //Sem retorno (void), mais rápido em relação ao print
 // print 'Forma menos utilizada'; //Retorna 1
 
-echo 'print retorna: '.print('');//Sáida: print retorna: 1
+echo 'print retorna: '.print('');//Saída: print retorna: 1
 
 $variavel = 12;
 //Inclusão de variaveis na string
