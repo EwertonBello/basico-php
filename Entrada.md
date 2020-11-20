@@ -13,8 +13,8 @@ Em um arquivo `html`, é criado um formulário onde se pede a entrada de dois da
 	Idade: <input type="text" name="input_idade"/>
 	<input type="submit"/>
 </form>
-./index.html
 ```
+`./index.html`
 
 ## Script PHP
 ```php
@@ -22,5 +22,5 @@ Em um arquivo `html`, é criado um formulário onde se pede a entrada de dois da
 $nome = $_POST['input_nome'];
 $idade = $_POST['input_idade'];
 ?>
-./action.php
 ```
+`./action.php`
