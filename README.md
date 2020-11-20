@@ -1,8 +1,8 @@
 # PHP - Sintaxe Básica  
 
 ## Estrutura  
-- [01 - Variáveis](https://www.google.com)
-- [02 - Entrada](https://www.google.com)
+- [01 - Variáveis](Variaveis.md)
+- [02 - Entrada](Entrada.md)
 - [03 - Saída](https://www.google.com)
 - [04 - Operadores](https://www.google.com)
 - [05 - Estruturas de Controle](https://www.google.com)
