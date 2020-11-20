@@ -16,4 +16,8 @@ $altura = 1.75; // Tipo -> float
 $linguagens = array("Kotlin", "PHP", "Dart", "Python", "Typescript"); // Tipo -> array
 // a partir do PHP 5.4
 $linguagens = ["Kotlin", "PHP", "Dart", "Python", "Typescript"]; // Tipo -> array
+
+$pessoa = array("nome"=>$nome, "idade"=>$idade);// Tipo -> array com chave
+// a partir do PHP 5.4
+$pessoa = ["nome"=>$nome, "idade"=>$idade]; // Tipo -> array com chave
 ```
