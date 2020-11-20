@@ -7,6 +7,7 @@ Os principais são `GET` e `POST`.
 ## Formulário HTML
 Em um arquivo `html`, é criado um formulário onde se pede a entrada de dois dados(Nome e Idade).
 > Utilizando o método `POST`.
+`./index.html`
 ```html
 <form action="action.php" method="POST">
 	Nome: <input type="text" name="input_nome"/>
@@ -14,13 +15,12 @@ Em um arquivo `html`, é criado um formulário onde se pede a entrada de dois da
 	<input type="submit"/>
 </form>
 ```
-`./index.html`
 
 ## Script PHP
+`./action.php`
 ```php
 <?php
 $nome = $_POST['input_nome'];
 $idade = $_POST['input_idade'];
 ?>
 ```
-`./action.php`
