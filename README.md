@@ -3,7 +3,7 @@
 ## Estrutura  
 - [01 - Variáveis](Variaveis.md)
 - [02 - Entrada](Entrada.md)
-- [03 - Saída](https://www.google.com)
+- [03 - Saída](Saida.md)
 - [04 - Operadores](https://www.google.com)
 - [05 - Estruturas de Controle](https://www.google.com)
 - [06 - Funções](https://www.google.com)
